@@ -1,0 +1,302 @@
+[
+    {
+        "DistinguishedName":  "CN=LDAP Admin,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Admin",
+        "SamAccountName":  "ldapadmin",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Admin",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Admin Clinical,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Admin Clinical",
+        "SamAccountName":  "ldapac",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Admin Clinical",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Admin Clinical Service Stat,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Admin Clinical Service Stat",
+        "SamAccountName":  "ldapacss",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Admin Clinical Service Stat",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Admin Service,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Admin Service",
+        "SamAccountName":  "ldapas",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Admin Service",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Admin Stat,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Admin Stat",
+        "SamAccountName":  "ldapast",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Admin Stat",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Clinical,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Clinical",
+        "SamAccountName":  "ldapclinical",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Clinical",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Service,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Service",
+        "SamAccountName":  "ldapservice",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Service",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Stat,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Stat",
+        "SamAccountName":  "ldapstat",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Stat",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Test User1,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Test User1",
+        "SamAccountName":  "ldaptest1",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Test User1",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Test User2,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Test User2",
+        "SamAccountName":  "ldaptest2",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Test User2",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Test User3,OU=LDAPUsers,DC=company,DC=pri",
+        "Name":  "LDAP Test User3",
+        "SamAccountName":  "ldaptest3",
+        "GivenName":  "",
+        "Surname":  "",
+        "DisplayName":  "LDAP Test User3",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=Xuezhong,CN=Users,DC=company,DC=pri",
+        "Name":  "Xuezhong",
+        "SamAccountName":  "Xuezhong",
+        "GivenName":  "Xuezhong",
+        "Surname":  "Yan",
+        "DisplayName":  "Xuezhong Yan",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=myaccount,CN=Users,DC=company,DC=pri",
+        "Name":  "myaccount",
+        "SamAccountName":  "myaccount",
+        "GivenName":  "My",
+        "Surname":  "Account",
+        "DisplayName":  "My Account",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=gshields,CN=Users,DC=company,DC=pri",
+        "Name":  "gshields",
+        "SamAccountName":  "gshields",
+        "GivenName":  "Greg",
+        "Surname":  "Shields",
+        "DisplayName":  "Greg Shields",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=djones,CN=Users,DC=company,DC=pri",
+        "Name":  "djones",
+        "SamAccountName":  "djones",
+        "GivenName":  "Dan",
+        "Surname":  "Jones",
+        "DisplayName":  "Dan Jones",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=jhelmick,CN=Users,DC=company,DC=pri",
+        "Name":  "jhelmick",
+        "SamAccountName":  "jhelmick",
+        "GivenName":  "Jane",
+        "Surname":  "Helmick",
+        "DisplayName":  "Jane Helmick",
+        "Description":  "",
+        "Department":  ""
+    },
+    {
+        "DistinguishedName":  "CN=MaryL,OU=IT,DC=company,DC=pri",
+        "Name":  "MaryL",
+        "SamAccountName":  "MaryL",
+        "GivenName":  "Mary",
+        "Surname":  "Lennon",
+        "DisplayName":  "Mary Lennon",
+        "Description":  "Main IT",
+        "Department":  "IT"
+    },
+    {
+        "DistinguishedName":  "CN=MikeS,OU=IT,DC=company,DC=pri",
+        "Name":  "MikeS",
+        "SamAccountName":  "MikeS",
+        "GivenName":  "Mike",
+        "Surname":  "Smith",
+        "DisplayName":  "Mike Smith",
+        "Description":  "Backup IT",
+        "Department":  "IT"
+    },
+    {
+        "DistinguishedName":  "CN=SimonS,OU=Dev,DC=company,DC=pri",
+        "Name":  "SimonS",
+        "SamAccountName":  "SimonS",
+        "GivenName":  "Simon",
+        "Surname":  "Smith",
+        "DisplayName":  "Simon Smith",
+        "Description":  "The Developer",
+        "Department":  "Dev"
+    },
+    {
+        "DistinguishedName":  "CN=AaronS,OU=Accounting,DC=company,DC=pri",
+        "Name":  "AaronS",
+        "SamAccountName":  "AaronS",
+        "GivenName":  "Aaron",
+        "Surname":  "Smith",
+        "DisplayName":  "Aaron Smith",
+        "Description":  "Accountant",
+        "Department":  "Accounting"
+    },
+    {
+        "DistinguishedName":  "CN=AndreaS,OU=Accounting,DC=company,DC=pri",
+        "Name":  "AndreaS",
+        "SamAccountName":  "AndreaS",
+        "GivenName":  "Andrea",
+        "Surname":  "Smith",
+        "DisplayName":  "Andrea Smith",
+        "Description":  "Accountant",
+        "Department":  "Accounting"
+    },
+    {
+        "DistinguishedName":  "CN=AndyS,OU=Accounting,DC=company,DC=pri",
+        "Name":  "AndyS",
+        "SamAccountName":  "AndyS",
+        "GivenName":  "Andy",
+        "Surname":  "Smith",
+        "DisplayName":  "Andy Smith",
+        "Description":  "Accountant",
+        "Department":  "Accounting"
+    },
+    {
+        "DistinguishedName":  "CN=SamS,OU=Sales,DC=company,DC=pri",
+        "Name":  "SamS",
+        "SamAccountName":  "SamS",
+        "GivenName":  "Sam",
+        "Surname":  "Smith",
+        "DisplayName":  "Sam Smith",
+        "Description":  "Sales",
+        "Department":  "Sales"
+    },
+    {
+        "DistinguishedName":  "CN=SonyaS,OU=Sales,DC=company,DC=pri",
+        "Name":  "SonyaS",
+        "SamAccountName":  "SonyaS",
+        "GivenName":  "Sonya",
+        "Surname":  "Smith",
+        "DisplayName":  "Sonya Smith",
+        "Description":  "Sales",
+        "Department":  "Sales"
+    },
+    {
+        "DistinguishedName":  "CN=SamanthaS,OU=Sales,DC=company,DC=pri",
+        "Name":  "SamanthaS",
+        "SamAccountName":  "SamanthaS",
+        "GivenName":  "Samantha",
+        "Surname":  "Smith",
+        "DisplayName":  "Samantha Smith",
+        "Description":  "Sales",
+        "Department":  "Sales"
+    },
+    {
+        "DistinguishedName":  "CN=MarkS,OU=Marketing,DC=company,DC=pri",
+        "Name":  "MarkS",
+        "SamAccountName":  "MarkS",
+        "GivenName":  "Mark",
+        "Surname":  "Smith",
+        "DisplayName":  "Mark Smith",
+        "Description":  "Marketing",
+        "Department":  "Marketing"
+    },
+    {
+        "DistinguishedName":  "CN=MonicaS,OU=Marketing,DC=company,DC=pri",
+        "Name":  "MonicaS",
+        "SamAccountName":  "MonicaS",
+        "GivenName":  "Monica",
+        "Surname":  "Smith",
+        "DisplayName":  "Monica Smith",
+        "Description":  "Marketing",
+        "Department":  "Marketing"
+    },
+    {
+        "DistinguishedName":  "CN=MattS,OU=Marketing,DC=company,DC=pri",
+        "Name":  "MattS",
+        "SamAccountName":  "MattS",
+        "GivenName":  "Matt",
+        "Surname":  "Smith",
+        "DisplayName":  "Matt Smith",
+        "Description":  "Marketing",
+        "Department":  "Marketing"
+    },
+    {
+        "DistinguishedName":  "CN=JimJ,OU=JEA_Operators,DC=company,DC=pri",
+        "Name":  "JimJ",
+        "SamAccountName":  "JimJ",
+        "GivenName":  "Jim",
+        "Surname":  "Jea",
+        "DisplayName":  "Jim Jea",
+        "Description":  "JEA",
+        "Department":  "IT"
+    },
+    {
+        "DistinguishedName":  "CN=JillJ,OU=JEA_Operators,DC=company,DC=pri",
+        "Name":  "JillJ",
+        "SamAccountName":  "JillJ",
+        "GivenName":  "Jill",
+        "Surname":  "Jea",
+        "DisplayName":  "Jill Jea",
+        "Description":  "JEA",
+        "Department":  "IT"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "DistinguishedName":  "CN=LDAP Administrators,OU=LDAPGroups,DC=company,DC=pri",
+        "Name":  "LDAP Administrators",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "ldapadmin",
+                        "ldapac",
+                        "ldapacss",
+                        "ldapas",
+                        "ldapast"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Clinicians,OU=LDAPGroups,DC=company,DC=pri",
+        "Name":  "LDAP Clinicians",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "ldapclinical",
+                        "ldapac",
+                        "ldapacss"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Service Techs,OU=LDAPGroups,DC=company,DC=pri",
+        "Name":  "LDAP Service Techs",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "ldapservice",
+                        "ldapas",
+                        "ldapacss"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Stat Users,OU=LDAPGroups,DC=company,DC=pri",
+        "Name":  "LDAP Stat Users",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "ldapstat",
+                        "ldapast",
+                        "ldapacss"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Test1,OU=LDAPGroups,DC=company,DC=pri",
+        "Name":  "LDAP Test1",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "ldaptest1"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Test2,OU=LDAPGroups,DC=company,DC=pri",
+        "Name":  "LDAP Test2",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "ldaptest2"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=LDAP Test3,OU=LDAPGroups,DC=company,DC=pri",
+        "Name":  "LDAP Test3",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "ldaptest3"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=Domain Admins,CN=Users,DC=company,DC=pri",
+        "Name":  "Domain Admins",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "Administrator",
+                        "gshields",
+                        "myaccount"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=Enterprise Admins,CN=Users,DC=company,DC=pri",
+        "Name":  "Enterprise Admins",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Universal",
+        "Members":  [
+                        "Administrator",
+                        "gshields",
+                        "myaccount"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=Schema Admins,CN=Users,DC=company,DC=pri",
+        "Name":  "Schema Admins",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Universal",
+        "Members":  [
+                        "Administrator",
+                        "gshields",
+                        "myaccount"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=IT,OU=IT,DC=company,DC=pri",
+        "Name":  "IT",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "MikeS",
+                        "MaryL"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=Sales,OU=Sales,DC=company,DC=pri",
+        "Name":  "Sales",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "SamanthaS",
+                        "SonyaS",
+                        "SamS"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=Marketing,OU=Marketing,DC=company,DC=pri",
+        "Name":  "Marketing",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "MattS",
+                        "MonicaS",
+                        "MarkS"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=Accounting,OU=Accounting,DC=company,DC=pri",
+        "Name":  "Accounting",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "AaronS",
+                        "AndreaS",
+                        "AndyS"
+                    ]
+    },
+    {
+        "DistinguishedName":  "CN=JEA Operators,OU=JEA_Operators,DC=company,DC=pri",
+        "Name":  "JEA Operators",
+        "GroupCategory":  "Security",
+        "GroupScope":  "Global",
+        "Members":  [
+                        "JimJ",
+                        "JillJ"
+                    ]
+    }
+
+]

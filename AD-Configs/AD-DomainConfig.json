@@ -1,0 +1,27 @@
+{
+    "ThisComputerName": "dc",
+
+    "IPAddressCIDR": "192.168.20.2/24",
+    "DNSAddress": "192.168.20.2",
+    "GatewayAddress":  "192.168.20.1",
+    "InterfaceAlias": "Ethernet",
+
+    "DomainName":  "company.pri",
+    "DomainLogonName":  "company",
+    "DomainDN":  "DC=company,DC=pri",
+    "DCDatabasePath":  "C:\\NTDS",
+    "DCLogPath":  "C:\\NTDS",
+    "SysvolPath":  "C:\\Sysvol",
+    
+    "CAType": "EnterpriseRootCA",
+    "CryptoProviderName":  "RSA#Microsoft Software Key Storage Provider",
+    "HashAlgorithmName":  "SHA256",
+    "KeyLength":  2048,
+    "ValidityPeriod":  "Years",
+    "ValidityPeriodUnits":  99,
+    "CACommonName": "dc.company.pri",
+    "CADistinguishedNameSuffix": "DC=company,DC=pri",
+    "DatabaseDirectory": "C:\\windows\\system32\\CertLog",
+    "LogDirectory": "C:\\CA_Logs"
+
+}
